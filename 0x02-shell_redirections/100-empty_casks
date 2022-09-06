@@ -1,2 +1,2 @@
 #!/bin/bash
-f -empty -print
+fnd. -empty -printf "%f\n"
